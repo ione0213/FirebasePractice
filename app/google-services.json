@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041441208201",
+    "firebase_url": "https://appworks-phase1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "appworks-phase1",
+    "storage_bucket": "appworks-phase1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041441208201:android:d6d0565457aaaabbe61358",
+        "android_client_info": {
+          "package_name": "com.yuchen.firebasephaseone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041441208201-h4v61bq0cdikm5g3lq7k69cca863esi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgFxpBvSL8ZFdgSJZcJKYh0ecEAptfu7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041441208201-h4v61bq0cdikm5g3lq7k69cca863esi4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1041441208201-9s7jlv71u283m0kkg044ukogt1e2jvfn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.echim.FirebasePractice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
